@@ -14,3 +14,15 @@ footer {
 .search-form {
   margin: 10px;
 }
+
+.basic-info {
+  margin: 50px;
+}
+
+.forther-info {
+  margin-bottom: 50px;
+}
+
+.current-temperature {
+  font-size: 100px;
+}
