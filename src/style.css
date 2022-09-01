@@ -3,6 +3,10 @@
   border-radius: 10px;
   display: block;
   margin: 50px auto;
+  margin-bottom: 0;
   max-width: 50%;
+}
+.weather-app,
+footer {
   text-align-last: center;
 }
