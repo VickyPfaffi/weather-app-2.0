@@ -6,9 +6,9 @@
   margin-bottom: 0;
   max-width: 50%;
 }
-.weather-app,
+.basic-info,
 footer {
-  text-align-last: center;
+  text-align: center;
 }
 
 .search-form {
@@ -25,4 +25,19 @@ footer {
 
 .current-temperature {
   font-size: 100px;
+}
+
+.celsius-fahrenheit,
+.highest-lowest {
+  font-size: 30px;
+  position: relative;
+}
+
+.celsius-fahrenheit {
+  top: -46px;
+}
+
+.highest-lowest {
+  left: -70px;
+  top: -8px;
 }
